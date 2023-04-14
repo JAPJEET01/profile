@@ -1,3 +1,2 @@
-amzn1.application.6ae0dab3589f44139672d0acbfa33ca2
-client id amzn1.application-oa2-client.33af6b6606704d9aa8b6ad5affb4ad71
-amzn1.oa2-cs.v1.f5305d69bed606099e6257ba5c62e63c8c4aca17b301b0d34191138667f54fbb
+
+
